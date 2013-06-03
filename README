@@ -3,3 +3,6 @@ $ repo sync
 $ . ./platform_manifest/manual_add_kernel_manifest.sh
 $ cd platform_manifest
 $ ./pick.sh
+$ mind_your_own_renamed_kang_rom
+#run this and you can be a kanger and not a dev
+$IM_smarter_then_you && FO
